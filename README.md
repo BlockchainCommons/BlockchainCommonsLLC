@@ -1,6 +1,6 @@
-# BlockchainCommonsLLC
+# Blockchain Commons, LLC
 
-This repository contains information about Blockchain Commons, LLC, a "not-for-profit" benefit LLC chartered in the State of Wyoming, United States of America.
+Information about "Blockchain Commons, LLC", a "not-for-profit" benefit organization chartered in the State of Wyoming, United States of America.
 
 Our goal is to support blockchain infrastructure and the broader security industry through cryptographic research, cryptographic & privacy protocol implementations, architecture & code reviews, industry standards, etc. In particular, we seek to improve the blockchain ecosystem by focusing on infrastructure and solutions that are decentralized, platform & blockchain neutral and vendor-independent, with a strong commitment to open source and a defensive patent strategy.
 
