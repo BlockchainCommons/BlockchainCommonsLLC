@@ -8,7 +8,9 @@ Our goal is to support blockchain infrastructure and the broader security indust
 
 * [Blockchain_Commons_LLC_Articles_of_Organization.pdf](Blockchain_Commons_LLC_Articles_of_Organization.pdf) 
 
-* [Blockchain_Commons_LLC_Registration_Receipt.pdf](Blockchain_Commons_LLC_Registration_Receipt.pdf) 
+* [Blockchain_Commons_LLC_Registration_Receipt.pdf](Blockchain_Commons_LLC_Registration_Receipt.pdf)
+
+* [Blockchain_Commons_WY_CertOfGoodStanding_2024.pdf](Blockchain_Commons_WY_CertOfGoodStanding_2024.pdf)
 
 ### License
 
